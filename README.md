@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="uhq.png" alt="uhq" width="125">
+  <img src="uhq.jpg" alt="uhq" width="125">
 </p>
 
 <h1 align="center">Welcome to my GitHub profile!</h1>
